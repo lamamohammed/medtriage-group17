@@ -61,3 +61,4 @@ print("Step No node:", step_no.text, "| Rec:", btree.get_recommendation(step_no)
 
 # للتاكد من امتلاء الاسره 
 print("Allocate when truly full:", gtree.allocate_first_free_bed())
+ 
